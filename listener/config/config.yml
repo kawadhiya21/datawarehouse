@@ -1,4 +1,8 @@
 ---
+  auth:
+    api_key: 'abcdef'
+    required_key: 'u_id'
+
   redis:
     host: 'localhost'
     port: 6379
