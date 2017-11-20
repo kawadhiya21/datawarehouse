@@ -1,0 +1,4 @@
+---
+  events:
+    - web_events
+    - live_events
